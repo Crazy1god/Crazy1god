@@ -23,4 +23,4 @@ JSS Academy of Technical Education - Noida
 
 
 🛠️ **Skills:**
-- **Languages:** Python, SQL
+- **Languages:** Python,
